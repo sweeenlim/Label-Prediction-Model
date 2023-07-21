@@ -1,0 +1,4 @@
+#ignore pickles
+*.pkl
+*.ipynb
+*.pdf
