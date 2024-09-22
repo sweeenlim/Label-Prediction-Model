@@ -23,7 +23,7 @@ python model.py
 python app.py
 ```
 ```
-docker run -p 8000:5000 cherrypaca/sap_ml_model
+docker run -p 8000:5000 ml_model
 ```
 ## Structure
 ```model.py``` contains the code for the machine learning model to predict the label for the corresponding provisions.
